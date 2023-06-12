@@ -28,7 +28,8 @@ On another terminal, run the app with the following commands.
 
   ```sh
   npm install
-  npm run dev
+  npm run build
+  npm start
   ```
 
 The app should be accessible on http://localhost:3000 on your browser.
