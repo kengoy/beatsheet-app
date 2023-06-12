@@ -18,6 +18,7 @@ Start the docker containers in the cloned repo:
 
   ```sh
   docker compose create
+  docker compose start
   ```
 
 
